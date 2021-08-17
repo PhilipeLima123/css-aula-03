@@ -1,0 +1,16 @@
+h1{
+    background-color: green;
+    color: white;
+    
+}
+
+
+
+body{
+background-color: lightblue;
+background-image: url(https://st.depositphotos.com/1008550/3202/i/600/depositphotos_32020607-stock-photo-three-red-kittens.jpg);
+background-repeat: no-repeat;
+background-size: 400px;
+background-position: bottom right  ;
+background-attachment: fixed;
+}
